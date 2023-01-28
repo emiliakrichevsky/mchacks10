@@ -1,0 +1,10 @@
+[
+    {
+        "id": "emergency",
+        "question": "How much money do you need in your emergency fund?",
+        "description": "It is usually recommend to save 6 months of spending",
+        "input": {
+            "type": "number-currency"
+        }
+    }
+]

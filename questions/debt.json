@@ -1,0 +1,34 @@
+[
+    {
+        "id": "debt-credit-card",
+        "question": "Do you have any credit card debt?",
+        "description": null,
+        "input": {
+            "type": "debt"
+        }
+    },
+    {
+        "id": "debt-student-loan",
+        "question": "Do you have any student loan(s)?",
+        "description": null,
+        "input": {
+            "type": "debt"
+        }
+    },
+    {
+        "id": "debt-car-loan",
+        "question": "Do you have a car loan(s)?",
+        "description": null,
+        "input": {
+            "type": "debt"
+        }
+    },
+    {
+        "id": "debt-other",
+        "question": "Do you have any other debt(s)?",
+        "description": null,
+        "input": {
+            "type": "debt"
+        }
+    }
+]

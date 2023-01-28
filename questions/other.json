@@ -1,0 +1,10 @@
+[
+    {
+        "id": "other",
+        "question": "Do you have a specific amount that you want to save?",
+        "description": "Trip, car, etc...",
+        "input": {
+            "type": "number-currency"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "retirement-age",
+        "question": "How old are you?",
+        "description": null,
+        "input": {
+            "type": "number",
+            "min": 18,
+            "max": 100,
+            "step": 1
+        }
+    },
+    {
+        "id": "retirement-retirement-age",
+        "question": "At what age are you looking to retire?",
+        "description": null,
+        "input": {
+            "type": "number",
+            "min": 18,
+            "max": 100,
+            "step": 1
+        }
+    },
+    {
+        "id": "retirement-spending",
+        "question": "How much do you spend per year?",
+        "description": null,
+        "input": {
+            "type": "number-currency"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "question": "What are your financial goals? (Select all that apply)",
+        "description": null,
+        "input": {
+            "type": "checkbox",
+            "options": [
+                {
+                    "label": "Pay off debt",
+                    "description": null,
+                    "value": "debt"
+                },
+                {
+                    "label": "Start an emergency fund",
+                    "description": null,
+                    "value": "emergency"
+                },
+                {
+                    "label": "Save for a down payment",
+                    "description": null,
+                    "value": "downpayment"
+                },
+                {
+                    "label": "General savings",
+                    "description": null,
+                    "value": "other"
+                },
+                {
+                    "label": "Save for retirement",
+                    "description": null,
+                    "value": "retirement"
+                }
+            ]
+        }
+    }
+]

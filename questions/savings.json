@@ -1,0 +1,26 @@
+[
+    {
+        "id": "savings-monthly",
+        "question": "How much can you save each month?",
+        "description": "After expenses, how much do you have left?",
+        "input": {
+            "type": "number-currency"
+        }
+    },
+    {
+        "id": "savings-savings",
+        "question": "How much money do you already have saved?",
+        "description": null,
+        "input": {
+            "type": "number-currency"
+        }
+    },
+    {
+        "id": "savings-invest",
+        "question": "Do you plan on investing your savings?",
+        "description": null,
+        "input": {
+            "type": "boolean-percentage"
+        }
+    } 
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "id": "downpayment",
+        "question": "How much do you need to save for a down payment?",
+        "description": "It is usually recommended to save 20% of the purchase price of the home for a down payment. However, there are many programs that allow you to put down less than 20%.",
+        "input": {
+            "type": "number-currency"
+        }
+    }
+]
