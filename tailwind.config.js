@@ -24,6 +24,10 @@ module.exports = {
       'med-purple': '#907ad6',
       'berry-purple': '#583abb',
     },
+    fontFamily: {
+      "display": "var(--display-font)",
+      "body": "var(--body-font)",
+    },
   },
   plugins: [],
 };
